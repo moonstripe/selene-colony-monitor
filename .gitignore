@@ -1,0 +1,16 @@
+# secrets — never commit
+.env
+*.key
+
+# python / tooling
+__pycache__/
+*.pyc
+.venv/
+.uv/
+
+# os / editor
+.DS_Store
+
+# scratch
+*.png
+*.log
